@@ -25,7 +25,7 @@ package
 		{
 			removeEventListener(Event.ADDED_TO_STAGE, init);
 			var assets:Vector.<String> = new Vector.<String>();
-			assets.push("assets/walk/scene1.png");
+			assets.push("assets/walkasdasdasds/scene1.png");
 			assets.push("assets/walk/sprites.png");
 			assets.push("assets/walk/coin.png");
 			assets.push("assets/walk/sprites.xml");
